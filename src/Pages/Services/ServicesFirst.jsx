@@ -1,5 +1,5 @@
 import React from "react";
-import Car from "../../assets/Car-Wheel.jpg";
+import Car from "../../assets/Car-Wheel.webp";
 import { FaPhoneAlt } from "react-icons/fa";
 import { Link } from "react-router-dom";
 

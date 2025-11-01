@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import PageBack from "../../Components/PageBack/Index";
-import Back from "../../assets/Contact.jpg";
+import Back from "../../assets/Contact.webp";
 import { FaAngleDoubleDown, FaAngleDoubleUp, FaClock } from "react-icons/fa";
 import { FaLocationDot } from "react-icons/fa6";
 import Form from "../../Components/Form/Index";

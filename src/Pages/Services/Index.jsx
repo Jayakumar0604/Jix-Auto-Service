@@ -1,5 +1,5 @@
 import React from "react";
-import Back from "../../assets/Services.jpg";
+import Back from "../../assets/Services.webp";
 import PageBack from "../../Components/PageBack/Index";
 import TitleBox from "../../Components/Titlebox/Index";
 import WhatWeDo from "../../Components/WeDo/Index";

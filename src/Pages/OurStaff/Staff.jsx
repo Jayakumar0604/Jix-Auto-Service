@@ -1,9 +1,9 @@
 import React from "react";
-import Owner from "../../assets/Owner.jpg";
+import Owner from "../../assets/Owner.webp";
 import Staff1 from "../../assets/staff-1.png";
-import Staff2 from "../../assets/staff-2.jpg";
-import Staff3 from "../../assets/staff-3.jpg";
-import Staff4 from "../../assets/staff-4.jpg";
+import Staff2 from "../../assets/staff-2.webp";
+import Staff3 from "../../assets/staff-3.webp";
+import Staff4 from "../../assets/staff-4.webp";
 import {
   FaFacebook,
   FaInstagram,

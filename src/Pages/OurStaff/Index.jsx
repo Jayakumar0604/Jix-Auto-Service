@@ -1,6 +1,6 @@
 import React from "react";
 import PageBack from "../../Components/PageBack/Index";
-import Back from "../../assets/Our-Staff.jpg";
+import Back from "../../assets/Our-Staff.webp";
 import TitleBox from "../../Components/Titlebox/Index";
 import Staff from "./Staff";
 import Emergency from "../../Components/Emergency/Index";

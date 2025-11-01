@@ -1,8 +1,8 @@
 import React from "react";
 import TitleBox from "../Titlebox/Index";
 import { FaQuoteLeft } from "react-icons/fa6";
-import Client1 from "../../assets/Model-1.jpg";
-import Client2 from "../../assets/Model-2.jpg";
+import Client1 from "../../assets/Model-1.webp";
+import Client2 from "../../assets/Model-2.webp";
 import {
   FaFacebookF,
   FaFoursquare,

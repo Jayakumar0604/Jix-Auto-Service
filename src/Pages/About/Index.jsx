@@ -1,5 +1,5 @@
 import React from "react";
-import Back from "../../assets/About.jpg";
+import Back from "../../assets/About.webp";
 import TitleBox from "../../Components/Titlebox/Index";
 import WhatWeDo from "../../Components/WeDo/Index";
 import Emergency from "../../Components/Emergency/Index";

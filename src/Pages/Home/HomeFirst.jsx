@@ -1,5 +1,5 @@
 import React from "react";
-import Back from "../../assets/Home.jpg";
+import Back from "../../assets/Home.webp";
 import TitleBox from "../../Components/Titlebox/Index";
 import { FaBriefcase, FaPhoneFlip, FaUser } from "react-icons/fa6";
 import { FaShieldAlt } from "react-icons/fa";
